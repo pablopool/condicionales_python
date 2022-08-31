@@ -5,8 +5,8 @@
 # Version: 2.0
 
 # Ejemplos varialbles de texto y condicionales compuestos
-texto_1 = 'a'
-texto_2 = 'b'
+texto_1 = 'hola'
+texto_2 = 'z'
 
 # Condicionales compuestos
 # Si texto_1 es mayor a texto_2 e igual a "hola" o
